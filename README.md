@@ -16,23 +16,23 @@ git clone https://github.com/your-username/contact-list-mern.git
 ```
 
 2. Install dependencies
-
+```
 cd contact-list-mern
 npm install
-
+```
 
 3. Set up environment variables
 
 Create a `.env` file in the root directory of the project and set the following environment variables:
-
+```
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/mern-contact-list
-
+```
 
 4. Start the server
-
+```
 npm start
-
+```
 
 
 The server will start at `http://localhost:5000`for node and `http://localhost:3000` for react.
