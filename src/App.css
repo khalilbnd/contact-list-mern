@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.floating-btn{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #3C18D6;
+  color: #ffffff;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.icon{
+  padding-bottom: 10px;
+}

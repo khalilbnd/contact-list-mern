@@ -1,0 +1,52 @@
+.contactsList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+table{
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+th{
+    font-size: 16px;
+    padding: 6vh;
+    color: #ffffff;
+    background-color: #3C18D6;
+}
+td{
+    text-align: center;
+    padding: 30px 15px;
+    background-color: #e9e9e9;
+}
+a:link{
+    text-decoration: none;
+}
+
+.btn-ed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 10px 25px;
+    border-radius: 25px;
+    border: 2px solid;
+    font-size: 0.7em;
+    font-weight: 600;
+}
+.btn-title{
+    padding-right: 10px;
+}
+
+.btn-edit{
+    color: #3C18D6;
+}
+.btn-delete{
+    color: #d01818;
+
+}
+
+
+

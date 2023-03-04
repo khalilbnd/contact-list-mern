@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3C18D6;
+    padding: 15px;
+    
+}
+
+.searchBar{
+    display: flex;
+    padding: 15px;
+    width: 50%;
+    text-align: center;
+}
+.searchBar-textfield{
+    width: 100%;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 20px;
+    color: #000000;
+    background-color: #ffffff;
+}
+.searchBtn{
+    position: relative;
+    right: 50px;
+    width: 10%;
+    appearance: none;
+    background-color: #ffffff;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
