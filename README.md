@@ -11,9 +11,9 @@ This is a sample project that demonstrates how to build a contact list applicati
 ## Installation
 
 1. Clone the repository
-
+```
 git clone https://github.com/your-username/contact-list-mern.git
-
+```
 
 2. Install dependencies
 
